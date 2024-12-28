@@ -2,7 +2,7 @@
 
 Makes resized versions of JPG files.
 
-![Screenshot of Image Resizer](ImageResizer.png)
+![Screenshot of Image Resizer]("ImageResizer.png")
 
 ## Features
 - User provides the vertical resolution of output images
